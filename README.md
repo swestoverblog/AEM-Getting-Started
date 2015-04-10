@@ -1,12 +1,12 @@
-# AEM-Getting-Started
-AEM simple project structure to get you started.
+# AEM-Getting-Started - Sightly Page Component
+AEM simple project structure to get you started. Also, includes the sightly page component.
 
 Developer: Scott Westover
 Blog: http://scottwestover.blogspot.com/
 
 You can find a tutorial on how to build the project structure here:
 
-http://scottwestover.blogspot.com/2015/03/aem-basic-project-setup-tutorial.html
+
 
 This was built using AEM 6.
 
