@@ -6,7 +6,7 @@ Blog: http://scottwestover.blogspot.com/
 
 You can find a tutorial on how to build the project structure here:
 
-
+http://scottwestover.blogspot.com/2015/04/aem-tutorial-on-building-sightly-page.html
 
 This was built using AEM 6.
 
